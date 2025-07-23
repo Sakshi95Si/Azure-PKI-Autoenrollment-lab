@@ -6,6 +6,10 @@ This lab demonstrates the deployment of a two-tier Public Key Infrastructure (PK
 
 > 🔗 _Note: Refer the underlying Hub-and-Spoke network architecture and S2S VPN connectivity (https://github.com/Sakshi95Si/Azure-PrivateMesh-Lab)._
 
+![SS](Screenshots/PKI-2tier-Page-1.png)
+
+![SS](Screenshots/PKI-2tier-Page-2.png)
+
 ---
 
 ## Objectives
