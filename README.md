@@ -78,6 +78,6 @@ This lab demonstrates the deployment of a two-tier Public Key Infrastructure (PK
 
 - [Active Directory Certificate Services Overview]([https://learn.microsoft.com/en-us/windows-server/certificates](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/cc731564(v=ws.10))
 
----
+-----------------------------------------
 
 
