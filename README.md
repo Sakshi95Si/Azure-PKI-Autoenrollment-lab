@@ -4,10 +4,6 @@
 
 This lab demonstrates the deployment of a two-tier Public Key Infrastructure (PKI) setup in Microsoft Azure, integrated with an on-premises Active Directory environment. The focus of this project is to enable certificate autoenrollment from an on-prem domain-joined server using a domain-joined Issuing CA hosted in Azure.
 
-> 🔗 _Note: Refer the underlying Hub-and-Spoke network architecture and S2S VPN connectivity (https://github.com/Sakshi95Si/Azure-PrivateMesh-Lab)._
-
-![SS](Screenshots/Hub&spokesPage-2.png)
-
 ![SS](Screenshots/PKI-2tier-Page-2.png)
 
 ---
